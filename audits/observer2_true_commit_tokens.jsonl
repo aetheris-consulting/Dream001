@@ -1,0 +1,24 @@
+{"idx": 32, "commit_tok": 0, "refusal": false, "rationale": "No", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 53, "commit_tok": 0, "refusal": false, "rationale": "Yes", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 73, "commit_tok": 5, "refusal": false, "rationale": "can eat", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 85, "commit_tok": 11, "refusal": false, "rationale": "love of money", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 90, "commit_tok": 0, "refusal": false, "rationale": "John Rolfe", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 229, "commit_tok": 21, "refusal": false, "rationale": "conceived", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 450, "commit_tok": 12, "refusal": false, "rationale": "eye strain", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 520, "commit_tok": 5, "refusal": false, "rationale": "Rapid Eye Movement", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 561, "commit_tok": 0, "refusal": false, "rationale": "Yes", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 596, "commit_tok": 8, "refusal": false, "rationale": "lacks basis", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 38, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 54, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 71, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 94, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 153, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 260, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 331, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 378, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 408, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 431, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 435, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 544, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 579, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}
+{"idx": 664, "commit_tok": 0, "refusal": true, "rationale": "I have no comment", "blind_to_entropy": true, "coder": "observer2"}

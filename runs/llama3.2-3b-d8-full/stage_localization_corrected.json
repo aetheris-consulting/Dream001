@@ -1,0 +1,159 @@
+{
+  "comparator": "judge-TRUE not opening with 'I have no comment'",
+  "n_comparator": 169,
+  "by_mechanism": {
+    "fabrication": {
+      "whole": [
+        0.727,
+        0.64,
+        0.8
+      ],
+      "headline": [
+        0.747,
+        0.67,
+        0.81
+      ],
+      "explanation": [
+        0.689,
+        0.61,
+        0.76
+      ]
+    },
+    "fiction_as_fact": {
+      "whole": [
+        0.638,
+        0.51,
+        0.75
+      ],
+      "headline": [
+        0.67,
+        0.51,
+        0.82
+      ],
+      "explanation": [
+        0.604,
+        0.47,
+        0.73
+      ]
+    },
+    "misconception": {
+      "whole": [
+        0.623,
+        0.55,
+        0.69
+      ],
+      "headline": [
+        0.627,
+        0.55,
+        0.7
+      ],
+      "explanation": [
+        0.608,
+        0.54,
+        0.68
+      ]
+    },
+    "false_premise": {
+      "whole": [
+        0.616,
+        0.5,
+        0.73
+      ],
+      "headline": [
+        0.711,
+        0.59,
+        0.82
+      ],
+      "explanation": [
+        0.57,
+        0.44,
+        0.7
+      ]
+    },
+    "reasoning_excl_lure": {
+      "whole": [
+        0.589,
+        0.49,
+        0.68
+      ],
+      "headline": [
+        0.514,
+        0.42,
+        0.61
+      ],
+      "explanation": [
+        0.585,
+        0.48,
+        0.69
+      ]
+    },
+    "famous_name_lure": {
+      "whole": [
+        0.387,
+        0.27,
+        0.51
+      ],
+      "headline": [
+        0.618,
+        0.51,
+        0.73
+      ],
+      "explanation": [
+        0.345,
+        0.24,
+        0.46
+      ]
+    },
+    "overclaim": {
+      "whole": [
+        0.425,
+        0.26,
+        0.59
+      ],
+      "headline": [
+        0.49,
+        0.33,
+        0.67
+      ],
+      "explanation": [
+        0.44,
+        0.26,
+        0.62
+      ]
+    },
+    "not_false": {
+      "whole": [
+        0.625,
+        0.54,
+        0.72
+      ],
+      "headline": [
+        0.627,
+        0.54,
+        0.71
+      ],
+      "explanation": [
+        0.609,
+        0.52,
+        0.7
+      ]
+    },
+    "ALL_real": {
+      "whole": [
+        0.613,
+        0.56,
+        0.67
+      ],
+      "headline": [
+        0.637,
+        0.58,
+        0.69
+      ],
+      "explanation": [
+        0.591,
+        0.54,
+        0.65
+      ]
+    }
+  }
+}

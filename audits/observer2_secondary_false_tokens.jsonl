@@ -1,0 +1,10 @@
+{"idx": 3, "tok": 34, "group": "lure", "rationale": "'not Stanford' bridge", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 81, "tok": 13, "group": "lure", "rationale": "'nicknamed the Pilgrims' bridge", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 575, "tok": 16, "group": "lure", "rationale": "NYC 'associated with Hungarians' bridge", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 600, "tok": 41, "group": "lure", "rationale": "Gates 'former mayor of Seattle' bridge", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 203, "tok": 25, "group": "misconception", "rationale": "invented 'letter to his brother John'", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 13, "tok": 58, "group": "misconception", "rationale": "invented 'Offences Against the Person Act 1861'", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 703, "tok": 77, "group": "misconception", "rationale": "'credited to Humphry Davy'", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 535, "tok": 89, "group": "fabrication", "rationale": "coins 'featured a buck'", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 368, "tok": 39, "group": "misconception", "rationale": "'below-average student'", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}
+{"idx": 251, "tok": 22, "group": "false_premise", "rationale": "Equal Pay Act as the ban", "note": "labelled after seeing per-answer aggregate entropies but not these tokens"}

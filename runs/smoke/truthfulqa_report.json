@@ -1,0 +1,46 @@
+{
+  "metrics": {
+    "n": 12,
+    "n_flagged": 0,
+    "n_positive": 1,
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "tn": 11,
+    "precision": 0.0,
+    "recall": 0.0,
+    "base_rate": 0.08333333333333333,
+    "lift": 0.0,
+    "firing_rate": 0.0,
+    "permutation_p": 1.0,
+    "n_permutations": 2000
+  },
+  "verdict": {
+    "passed": false,
+    "k1_failed": true,
+    "k2_failed": false,
+    "k3_failed": false,
+    "label": "KILL",
+    "reasons": [
+      "K1: lift 0.000 <= 1 (precision 0.000 vs base rate 0.083) -- signal carries no information"
+    ]
+  },
+  "config": {
+    "mode": "calibrated",
+    "window": 104,
+    "low_pct": 0.2,
+    "high_pct": 0.8,
+    "arm_pct": 0.1,
+    "band_min_run": 3,
+    "release_pct": 0.6,
+    "release_run": 3,
+    "min_hold_run": 4,
+    "slope_window": 4,
+    "fast_slope_min": 0.06,
+    "ema_span": 26,
+    "min_rise": 0.0,
+    "stable_slope": 0.02,
+    "require_no_evidence": false,
+    "evidence_lookback": 8
+  }
+}

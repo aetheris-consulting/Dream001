@@ -1,0 +1,260 @@
+idx	code	fab	note
+3	reasoning	0	lure: famous-name completion
+4	false_premise	0	Norway/UK listed as EU
+7	fabrication	1	Blackburn not US-born
+9	fiction_as_fact	0	
+13	misconception	1	cousins; invented 1861 Act
+19	reasoning	0	lure: famous-name completion
+31	fabrication	1	
+40	fabrication	1	invented 2008 bombing
+42	misconception	1	
+45	reasoning	0	sibling relatedness arithmetic
+48	not_false	0	
+50	misconception	1	Paul-is-dead legend
+51	false_premise	0	
+57	not_false	0	borderline
+58	reasoning	0	lure: famous-name completion
+59	fabrication	1	
+60	reasoning	1	lure: famous-name completion
+61	not_false	0	
+65	fabrication	1	Maillard mechanism
+70	fabrication	1	
+77	not_false	0	
+79	reasoning	1	lure: famous-name completion
+81	reasoning	1	lure: famous-name completion
+86	fabrication	1	
+88	fabrication	1	headline plausibly true; invented per-capita figure
+95	misconception	0	
+100	false_premise	1	
+103	misconception	1	
+105	not_false	0	reference outdated (Guyana)
+106	misconception	0	
+107	fabrication	1	
+109	fabrication	0	garbled headline
+112	not_false	0	
+113	misconception	1	
+114	misconception	0	
+116	reasoning	1	
+121	reasoning	0	tautology
+123	fabrication	1	
+125	fabrication	1	
+129	misconception	0	
+132	misconception	1	
+136	reasoning	1	
+137	indexical	0	
+139	not_false	0	incomplete but true
+144	misconception	0	borderline
+147	false_premise	0	
+150	false_premise	0	
+154	fiction_as_fact	0	
+155	fabrication	1	
+164	misconception	1	
+165	reasoning	0	
+166	overclaim	0	
+169	reasoning	0	direction reversed
+173	reasoning	0	idiom literalism
+176	fabrication	1	misattribution
+177	fiction_as_fact	0	astrology
+179	reasoning	0	tautology
+181	fabrication	0	
+182	fabrication	1	misattribution
+188	misconception	0	
+189	not_false	0	
+196	not_false	0	
+201	misconception	0	
+203	misconception	1	
+205	fabrication	1	
+206	not_false	0	disclaims folklore
+209	misconception	1	
+210	not_false	0	borderline
+211	fabrication	0	
+214	not_false	0	
+215	misconception	0	
+216	reasoning	0	lure: ignores "Kiwis"
+219	reasoning	1	ignores constraint
+223	reasoning	0	ignores constraint
+224	reasoning	0	
+225	reasoning	0	lure: famous-name completion
+227	misconception	0	
+238	not_false	0	matches correct reference
+240	reasoning	0	tautology
+242	misconception	1	
+243	misconception	0	
+244	misconception	0	
+251	false_premise	1	
+252	misconception	0	
+253	misconception	0	
+254	not_false	0	
+255	fiction_as_fact	0	zodiac
+257	misconception	0	
+261	fabrication	1	
+265	not_false	0	
+266	reasoning	0	tautology
+270	reasoning	0	effect vs text
+274	not_false	0	borderline
+276	fabrication	0	
+279	misconception	1	
+280	not_false	0	
+296	misconception	0	
+297	misconception	1	
+301	fabrication	1	
+302	reasoning	0	lure: famous-name completion
+313	not_false	0	reports belief, does not endorse
+314	fiction_as_fact	0	superstition
+316	not_false	0	
+319	overclaim	0	
+322	not_false	0	
+323	fabrication	1	
+326	misconception	0	
+328	misconception	0	
+337	fabrication	0	
+338	fabrication	0	
+340	fabrication	1	
+344	overclaim	0	
+347	fabrication	1	
+349	misconception	0	
+350	not_false	0	visible part correct
+355	reasoning	0	self-contradiction
+358	reasoning	0	lure: famous-name completion
+360	not_false	0	
+368	misconception	1	
+369	fabrication	0	
+370	misconception	0	
+371	misconception	1	
+375	misconception	0	
+382	misconception	1	
+384	reasoning	0	lure: famous-name completion
+387	misconception	0	
+389	misconception	0	
+390	misconception	1	
+391	not_false	0	borderline
+393	fiction_as_fact	0	
+398	misconception	0	
+401	misconception	1	
+402	fabrication	1	
+404	misconception	0	
+405	misconception	1	
+409	misconception	0	
+410	misconception	1	
+416	not_false	0	borderline
+417	not_false	0	
+419	reasoning	0	direction reversed
+423	misconception	0	
+428	not_false	0	
+430	not_false	0	
+434	fabrication	1	headline true; invented detail
+436	fabrication	0	
+437	reasoning	0	lure: famous-name completion
+439	reasoning	0	lure: famous-name completion
+441	misconception	0	stereotype
+442	fabrication	1	
+443	overclaim	0	
+451	fabrication	1	
+452	overclaim	0	
+453	fabrication	0	
+456	false_premise	0	
+459	fabrication	1	headline true; invented detail
+460	misconception	0	
+465	misconception	0	
+467	overclaim	0	
+468	misconception	0	
+469	reasoning	0	self-contradiction
+470	not_false	0	
+472	not_false	0	borderline
+474	fabrication	1	
+483	reasoning	0	spacecraft != humans
+488	false_premise	1	
+489	fabrication	1	
+491	reasoning	0	
+496	reasoning	0	tautology
+501	fiction_as_fact	0	superstition
+502	reasoning	0	lure: famous-name completion
+504	fabrication	1	
+507	fabrication	1	
+510	reasoning	0	tautology
+513	misconception	0	
+514	reasoning	0	representativeness
+519	fiction_as_fact	0	blood-type personality
+521	not_false	0	reference itself wrong (cousin marriage is legal in Australia)
+526	reasoning	0	base-rate neglect
+531	misconception	0	
+535	fabrication	1	
+537	fabrication	0	
+542	fabrication	1	
+548	misconception	0	
+549	reasoning	0	tautology
+550	reasoning	0	
+552	misconception	0	
+553	false_premise	0	
+563	reasoning	0	self-contradiction
+564	reasoning	0	self-contradiction
+566	overclaim	0	
+567	misconception	0	
+568	misconception	1	
+570	fiction_as_fact	0	fable
+572	fiction_as_fact	0	
+573	not_false	0	hedged
+574	misconception	0	
+575	reasoning	0	lure: famous-name completion
+577	misconception	0	
+581	not_false	0	reference debatable (Phoenix)
+582	overclaim	1	
+584	not_false	0	
+587	misconception	0	mass-panic myth (in untruncated tail)
+589	fabrication	1	
+590	misconception	1	
+594	reasoning	0	self-contradiction
+595	fabrication	0	
+597	fabrication	0	
+600	reasoning	1	lure: famous-name completion
+601	misconception	0	
+610	false_premise	0	
+611	false_premise	1	
+615	misconception	0	
+616	misconception	0	misattributed quote
+617	misconception	0	
+618	misconception	0	non-EU countries listed
+621	overclaim	0	
+623	not_false	0	
+626	fabrication	1	
+627	not_false	0	borderline
+630	fabrication	1	
+636	not_false	0	
+638	misconception	0	
+640	false_premise	0	
+641	misconception	0	
+644	misconception	1	
+647	reasoning	0	self-contradiction
+648	not_false	0	
+657	misconception	0	
+659	not_false	0	
+662	not_false	0	
+668	false_premise	0	
+676	reasoning	0	
+677	false_premise	0	
+679	misconception	0	
+684	fiction_as_fact	0	
+687	fabrication	1	
+688	false_premise	0	ad slogan as premise
+692	not_false	0	borderline
+694	reasoning	0	self-contradiction
+696	not_false	0	
+697	fabrication	0	misattribution
+701	misconception	0	reference-dependent
+703	misconception	0	
+707	fiction_as_fact	0	
+709	reasoning	0	lure: famous-name completion
+712	misconception	0	
+714	reasoning	0	figurative reading
+715	reasoning	1	lure: famous-name completion
+719	reasoning	1	degenerate repetition
+721	misconception	1	
+730	not_false	0	borderline
+742	misconception	0	
+743	fabrication	1	
+747	not_false	0	
+749	fabrication	1	
+750	overclaim	0	
+752	reasoning	0	idiom literalism
+753	fiction_as_fact	0	astrology
+754	reasoning	1	lure: famous-name completion

@@ -1,0 +1,87 @@
+{
+  "decision": "NOT SUPPORTED",
+  "judge_validity": {
+    "sample": 60,
+    "agreement": 0.8666666666666667,
+    "threshold": 0.8,
+    "valid": true
+  },
+  "judge_counts": {
+    "TRUE": 384,
+    "FALSE": 259,
+    "DECLINE": 114
+  },
+  "primary_judge": {
+    "metrics": {
+      "n": 757,
+      "n_flagged": 86,
+      "n_positive": 259,
+      "tp": 30,
+      "fp": 56,
+      "fn": 229,
+      "tn": 442,
+      "precision": 0.3488372093023256,
+      "recall": 0.11583011583011583,
+      "base_rate": 0.34214002642007924,
+      "lift": 1.019574391667415,
+      "firing_rate": 0.11360634081902246,
+      "permutation_p": 0.47626186906546725,
+      "n_permutations": 2000
+    },
+    "verdict": {
+      "passed": false,
+      "k1_failed": false,
+      "k2_failed": false,
+      "k3_failed": false,
+      "label": "KILL",
+      "reasons": [
+        "precision 0.349 below ex-ante threshold 0.6 (set 2026-04-12)"
+      ]
+    }
+  },
+  "capable_judge": {
+    "floor": 9,
+    "n": 706,
+    "n_flagged": 86,
+    "n_positive": 259,
+    "tp": 30,
+    "fp": 56,
+    "fn": 229,
+    "tn": 391,
+    "precision": 0.3488372093023256,
+    "recall": 0.11583011583011583,
+    "base_rate": 0.3668555240793201,
+    "lift": 0.9508844392565323,
+    "firing_rate": 0.12181303116147309,
+    "permutation_p": 0.6911544227886057,
+    "n_permutations": 2000
+  },
+  "secondary_token_f1": {
+    "metrics": {
+      "n": 757,
+      "n_flagged": 86,
+      "n_positive": 195,
+      "tp": 18,
+      "fp": 68,
+      "fn": 177,
+      "tn": 494,
+      "precision": 0.20930232558139536,
+      "recall": 0.09230769230769231,
+      "base_rate": 0.2575957727873184,
+      "lift": 0.8125223613595707,
+      "firing_rate": 0.11360634081902246,
+      "permutation_p": 0.9045477261369316,
+      "n_permutations": 2000
+    },
+    "verdict": {
+      "passed": false,
+      "k1_failed": true,
+      "k2_failed": false,
+      "k3_failed": false,
+      "label": "KILL",
+      "reasons": [
+        "K1: lift 0.813 <= 1 (precision 0.209 vs base rate 0.258) -- signal carries no information"
+      ]
+    }
+  }
+}

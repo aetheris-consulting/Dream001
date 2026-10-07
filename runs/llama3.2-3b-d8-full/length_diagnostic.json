@@ -1,0 +1,22 @@
+{
+  "event_floor_tokens": 9,
+  "n_capable": 706,
+  "n_hit_token_cap": 37,
+  "median_answer_tokens": 87,
+  "capable_metrics": {
+    "n": 706,
+    "n_flagged": 86,
+    "n_positive": 195,
+    "tp": 18,
+    "fp": 68,
+    "fn": 177,
+    "tn": 443,
+    "precision": 0.20930232558139536,
+    "recall": 0.09230769230769231,
+    "base_rate": 0.2762039660056657,
+    "lift": 0.7577817531305904,
+    "firing_rate": 0.12181303116147309,
+    "permutation_p": 0.952023988005997,
+    "n_permutations": 2000
+  }
+}

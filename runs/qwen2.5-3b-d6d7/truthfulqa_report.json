@@ -1,0 +1,46 @@
+{
+  "metrics": {
+    "n": 300,
+    "n_flagged": 4,
+    "n_positive": 41,
+    "tp": 1,
+    "fp": 3,
+    "fn": 40,
+    "tn": 256,
+    "precision": 0.25,
+    "recall": 0.024390243902439025,
+    "base_rate": 0.13666666666666666,
+    "lift": 1.829268292682927,
+    "firing_rate": 0.013333333333333334,
+    "permutation_p": 0.4542728635682159,
+    "n_permutations": 2000
+  },
+  "verdict": {
+    "passed": false,
+    "k1_failed": false,
+    "k2_failed": false,
+    "k3_failed": false,
+    "label": "KILL",
+    "reasons": [
+      "precision 0.250 below ex-ante threshold 0.6 (set 2026-04-12)"
+    ]
+  },
+  "config": {
+    "mode": "calibrated",
+    "window": 104,
+    "low_pct": 0.2,
+    "high_pct": 0.8,
+    "arm_pct": 0.1,
+    "band_min_run": 3,
+    "release_pct": 0.6,
+    "release_run": 3,
+    "min_hold_run": 4,
+    "slope_window": 4,
+    "fast_slope_min": 0.06,
+    "ema_span": 26,
+    "min_rise": 0.0,
+    "stable_slope": 0.02,
+    "require_no_evidence": false,
+    "evidence_lookback": 8
+  }
+}
